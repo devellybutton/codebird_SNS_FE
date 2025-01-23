@@ -1,0 +1,19 @@
+.inputs {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+  }
+  
+  .input-text {
+    padding: 8px 12px;
+    border: 1px solid #e5e7eb;
+    border-radius: 8px;
+    font-size: 1rem;
+    color: #111827;
+  }
+  
+  .buttons {
+    display: flex;
+    gap: 12px;
+  }
+  

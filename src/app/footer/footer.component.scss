@@ -1,0 +1,28 @@
+.footer {
+  margin-top: auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-top: 1px solid #e5e7eb;
+  padding-top: 16px;
+}
+
+.footer-name {
+  font-weight: bold;
+  color: #111827;
+}
+
+.footer-buttons {
+  display: flex;
+  gap: 12px;
+}
+
+.btn-follow {
+  background-color: #1d4ed8;
+  color: white;
+}
+
+.btn-unfollow {
+  background-color: #6b7280;
+  color: white;
+}

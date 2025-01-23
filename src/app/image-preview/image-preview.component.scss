@@ -1,0 +1,19 @@
+.image-preview {
+    margin-top: 16px;
+  }
+  
+  .image-preview-text {
+    font-size: 1rem;
+    color: #111827;
+    margin-bottom: 8px;
+  }
+  
+  .image {
+    width: 100%;
+    aspect-ratio: 16/9;
+    background-color: #e5e7eb;
+    background-size: cover;
+    background-position: center;
+    border-radius: 8px;
+  }
+  
